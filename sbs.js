@@ -1,1 +1,5 @@
-alert("Test.");
+function loadTest(){
+    
+    alert("Test.");
+
+}
