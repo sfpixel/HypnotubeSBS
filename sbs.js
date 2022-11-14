@@ -1,4 +1,4 @@
-function loadTest(){
+function initSBSModule(){
     
     alert("Test.");
 
